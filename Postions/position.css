@@ -1,0 +1,26 @@
+/* 
+1. Static
+2. Relative
+  LTRB we can use and move
+3. absolute
+4. fixed
+5. sticky
+ */
+/* 
+ .main{
+position: relative;
+
+
+ }
+
+ .box1{
+   
+ }
+
+ .box2{
+    bottom: 120px;
+    
+ }
+
+ .box3{}
+  */
