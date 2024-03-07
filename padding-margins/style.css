@@ -52,7 +52,17 @@ h3 {
     width: 80px;
     margin:10px 30px;
     margin-top: -10px;
-    
+       
+}
 
-    
+p {
+    padding: 20px 50px 10px 100px;
+    background-color: tomato;
+    margin: 2px;
+    text-align: center;
+}
+@media screen and (width < 600px) {
+    body {
+        background-color: rgb(121, 121, 128);
+    }
 }
